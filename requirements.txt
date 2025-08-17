@@ -9,7 +9,7 @@ urllib3
 bandit
 ansible-lint
 pipenv
-checkov==2.4.6
+checkov==3.2.449
 yamllint
 rich
 PyGithub>=1.59
